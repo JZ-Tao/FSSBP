@@ -1,2 +1,3 @@
 # FSSBP
-Fast Spatial–Spectral   Back Projection Based on  Pan-Sharpening Iterative Optimization
+Fast Spatial–Spectral Back Projection Based on Pan-Sharpening Iterative Optimization, 2023.
+Coming soon...
