@@ -8,9 +8,9 @@
 
 + Please add all subfolders of the source code to the matlab search path and execute the m-file in the root directory for the demo: 
 
-  (1) *FSSBP_demo.m*: Demonstration of BP_I, BP_T, SSBP, FBP and FSSBP.
+  (1) *FSSBP_demo.m*: Demonstration of $BP^I$, $BP^T$ SSBP, FBP and FSSBP. 
 
-  (2) *C_BP_plot_demo.m*: Plot C_BP values for common sharpening interpolators to verify convergence.
+  (2) *C_BP_plot_demo.m*: Plot $C_{BP}$ values for common sharpening interpolators to verify convergence.
 
   (3) *M_matrix_calculation_demo.m*: Demonstration of the BP transformation matrix and its spectral radius calculation.
 
