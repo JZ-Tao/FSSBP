@@ -1,14 +1,14 @@
 % FSSBP: Fast Spatial-Spectral Back Projection Based on Pan-sharpening
 % Iterative Optimization, 2023. https://doi.org/10.3390/rs15184543.
 % Inputs: 
-%   I_0: Initial sharpening result.
+%   I_0: Initial result.
 %   I_MS_LR: LR MS image.
 %   I_PAN: HR PAN image.
 %   ratio: The resolution ratio, for pan-sharpening, is typically 4.
 %   sensorInf: See generateDefaultSensorInf().
 %   Opts: See init_BP_options().
 % Output: 
-%   I_F_BP: BP optimized sharpening results.
+%   I_F_BP: BP optimized results.
 function I_t = BP_Wrapper(I_0, I_MS_LR, I_PAN, ratio, sensorInf, Opts)
 
 is_iter = Opts.is_iter;
