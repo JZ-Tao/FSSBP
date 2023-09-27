@@ -1,5 +1,7 @@
 function [GGt, ngs] = constructHP(h,p,K,rows,cols)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Author: Jingzhe Tao
+% Created with modifications from the following code:
 % Eigen-decomposition for super-resolution
 % Stanley Chan
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
